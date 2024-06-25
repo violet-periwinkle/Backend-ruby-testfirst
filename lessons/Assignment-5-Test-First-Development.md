@@ -1,7 +1,7 @@
 
 ### Set up instructions
 
-1. Fork this repository.  Then clone your fork as usual.
+1. Fork (this repository)[https://github.com/Code-the-Dream-School/Backend-ruby-testfirst].  Then clone your fork as usual.
 2. On your local machine, ```cd``` into the Backend-ruby-testfirst directory.
 3. run ```bundle install``` to install all the gems this project needs.
 4. Make a git branch called lesson5 and do the coding for these exercises in that branch.
